@@ -1,0 +1,15 @@
+DocxNumConvert
+DocxNumConvert.exe
+*.exe
+dist/
+releases/
+
+
+*.log
+
+
+.DS_Store
+Thumbs.db
+
+
+.vscode/
